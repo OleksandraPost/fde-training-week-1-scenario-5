@@ -246,3 +246,23 @@ However, this is not compliance-grade logging.
 
 - Confidence  
 High
+
+---
+
+## A13 — Intake error rates align with industry benchmarks
+
+- Assumption  
+The clinic's current intake error rate is consistent with industry ranges for manual administrative workflows.
+
+- Hypothesis  
+Baseline defect rate is approximately 8–10% of visits.
+
+- Validation Approach  
+- Compare with clinic data (audit sample of visits)
+- Validate frequency of prior auth / medication issues
+
+- Evidence from Build Loop  
+Used as baseline to define success metrics and targets.
+
+- Confidence  
+Medium
